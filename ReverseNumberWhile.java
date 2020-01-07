@@ -1,4 +1,3 @@
-#just i am testing trigger
 import java.util.Scanner;
 class ReverseNumberWhile
 {
