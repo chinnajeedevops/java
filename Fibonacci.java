@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /* this is my 1st CI pipeline java prog */
+=======
+>>>>>>> a689c654cecded9f2e3c419a152876f9fab90475
 public class Fibonacci {
     public static void main(String[] args) {
         int n = 10, t1 = 0, t2 = 1;
